@@ -1,11 +1,12 @@
 {
-  "name": "hero-cli",
+  "name": "@night-peiqi/hero-cli",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "release-major": "standard-version --release-as major",
     "release-minor": "standard-version --release-as minor",
-    "release-patch": "standard-version --release-as patch"
+    "release-patch": "standard-version --release-as patch",
+    "publish": "npm publish --access public"
   },
   "bin": {
     "hero": "./src/hero.js"
