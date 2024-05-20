@@ -1,6 +1,6 @@
 {
   "name": "@night-peiqi/hero-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "release-major": "standard-version --release-as major",
