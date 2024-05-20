@@ -12,6 +12,7 @@
     "hero": "./src/hero.js"
   },
   "author": "night-peiqi",
+  "homepage": "https://github.com/night-peiqi/hero-cli",
   "license": "MIT",
   "description": "",
   "dependencies": {
