@@ -1,11 +1,11 @@
-# hero-cli
+# @night-peiqi/hero-cli
 
 A simple CLI for scaffolding projects.
 
 ## Installation
 
 ```bash
-npm install -g hero-cli
+npm install -g @night-peiqi/hero-cli
 ```
 
 ## Usage
