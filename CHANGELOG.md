@@ -1,6 +1,18 @@
 # 更新日志 
 
 
+## [1.1.0](https://github.com/night-peiqi/hero-cli/compare/v1.0.2...v1.1.0) (2024-05-28)
+
+
+### ✏️ Documentation | 文档
+
+* 更新脚本命令 ([9f2712c](https://github.com/night-peiqi/hero-cli/commit/9f2712cbaeae54cc1329d3dcd5d9ebb041aabe28))
+
+
+### ✨ Features | 新功能
+
+* 新增h5模板 ([03a4a1a](https://github.com/night-peiqi/hero-cli/commit/03a4a1ac586bd6fa7d64f8d93c0a1f5b45bed5a2))
+
 ### [1.0.2](https://github.com/night-peiqi/hero-cli/compare/v1.0.1...v1.0.2) (2024-05-20)
 
 
